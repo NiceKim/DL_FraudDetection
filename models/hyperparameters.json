@@ -1,0 +1,14 @@
+{
+    "lstm_layers": 1,
+    "units_lstm": [
+        210
+    ],
+    "dense_layers": 3,
+    "units_dense": [
+        384,
+        256,
+        64
+    ],
+    "dropout": 0.2,
+    "learning_rate": 0.0008
+}
