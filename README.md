@@ -11,7 +11,7 @@ The solution will employ advanced machine learning techniques to analyze user in
 
 You can run the codes in colab [here](https://colab.research.google.com/drive/1Z-bj288oLvlznIMzcokDo-8zgHqxBQHu?usp=sharing)
 
-# [1] Contents
+# Contents
 This repository contains:
 
 <table>
@@ -36,8 +36,7 @@ This repository contains:
 </table>
 
 
-# [2] Technologies
-
+# Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
@@ -45,7 +44,7 @@ This repository contains:
 
 
 
-# [3] Contact
+# Contact
 If you want to contact me, you can reach me at:
 - 📧 96nicekim@gmail.com
 - 📋 [https://www.linkedin.com/in/jowoon-kim-424943119/](https://www.linkedin.com/in/jowoon-kim-424943119/)
