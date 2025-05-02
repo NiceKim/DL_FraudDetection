@@ -21,7 +21,7 @@ This repository contains:
       <th align="center">Description</th>
     </tr>
       <tr>
-      <td align="center"><a href="https://github.com/NiceKim/DL_FraudDetection/tree/main/notebooks">notebooks</a></td>
+      <td align="center"><a href="https://github.com/NiceKim/DL_FraudDetection/blob/main/notebooks/Final_MouseDynamic_FraudDetection_Jowoon.ipynb">notebooks</a></td>
       <td align="center">Jupyter notebooks coded with python for deep learning tasks</td>
      </tr>
         <tr>
